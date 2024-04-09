@@ -8,15 +8,18 @@
 </div>
 
 <br>
+<div align="center">
+  
 ### <span style="font-family: Arial, sans-serif;">📞📧  Fale comigo:</span>
 📱 [WhatsApp](https://wa.me/5514998080889)
 </div>
+
 
  
 <div align="center">
 <a href = "almeidarosangela298@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/rosangela.santos59/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/rosangela-santos-81a6492b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/Rosangela-Santos-81a6492b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
  
 ### Linguagens
